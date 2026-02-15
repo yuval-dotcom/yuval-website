@@ -6,3 +6,4 @@ export { SocialLinks } from "./SocialLinks";
 export { FocusSection } from "./FocusSection";
 export { CurrentlySection } from "./CurrentlySection";
 export { FutureSection } from "./FutureSection";
+export { DashboardSection } from "./DashboardSection";
