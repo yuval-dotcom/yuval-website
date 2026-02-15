@@ -1,2 +1,2 @@
 // Barrel file for landing page components
-export {};
+export { Header } from "./Header";
