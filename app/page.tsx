@@ -1,4 +1,4 @@
-import { Header, Hero, SocialLinks, FocusSection } from "./components";
+import { Header, Hero, SocialLinks, FocusSection, CurrentlySection } from "./components";
 
 export default function Home() {
   return (
@@ -8,6 +8,7 @@ export default function Home() {
         <Hero />
         <SocialLinks />
         <FocusSection />
+        <CurrentlySection />
       </main>
     </div>
   );

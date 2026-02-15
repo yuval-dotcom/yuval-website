@@ -4,3 +4,4 @@ export { Footer } from "./Footer";
 export { Hero } from "./Hero";
 export { SocialLinks } from "./SocialLinks";
 export { FocusSection } from "./FocusSection";
+export { CurrentlySection } from "./CurrentlySection";
