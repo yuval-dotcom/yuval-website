@@ -9,11 +9,13 @@ export function CurrentlySection() {
           Now
         </h2>
         <p className="text-lg text-gray-600 dark:text-gray-300 leading-relaxed">
-          I shape front-end architecture and system quality across products,
-          staying hands-on in code while driving cross-team initiatives (shared
-          UI, platform gaps, DX improvements). I also focus on developer
-          experience: evaluating tooling, defining practices, and building
-          integrations that improve daily engineering workflows.
+          I&apos;m in my final year of a B.Sc. in Computer Science at the Holon
+          Institute of Technology (HIT) with a GPA of 90. My focus is on
+          strengthening my backend and full-stack skills through academic
+          projects, self-study, and practicing data structures and algorithms.
+          I&apos;m actively looking for a student software development position
+          where I can apply what I&apos;ve learned and grow alongside an
+          experienced engineering team.
         </p>
       </div>
     </section>

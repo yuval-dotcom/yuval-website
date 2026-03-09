@@ -1,13 +1,13 @@
 const futureItems = [
   {
-    title: "Live presentations",
+    title: "Student developer role",
     description:
-      "Realtime audience polling: ask a question on stage, share a deep link, and show results live with a polished UI.",
+      "Joining a backend or full-stack team where I can turn academic knowledge into real-world impact, learn from experienced engineers, and contribute to production systems.",
   },
   {
-    title: "Knowledge bot",
+    title: "Projects & learning space",
     description:
-      "A bot trained on public content to help you find the right talk, post, or project fast.",
+      "Publishing personal projects, small services, and short write-ups about what I learn in algorithms, backend development, and software engineering best practices.",
   },
 ];
 

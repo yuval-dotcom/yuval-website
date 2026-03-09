@@ -1,9 +1,9 @@
 const focusItems = [
-  "UI architecture & infrastructure across multiple products",
-  "Performance and accessibility (a11y) as default standards",
-  "CI/CD automation and developer experience (DX)",
-  "Hands-on delivery on high-leverage initiatives",
-  "Mentoring and raising quality bars",
+  "Deepening my understanding of algorithms, data structures, and system design",
+  "Building backend and full-stack projects in Java, Kotlin, Python, and more",
+  "Writing clean, maintainable code with good debugging and troubleshooting habits",
+  "Working effectively in teams, communicating clearly, and managing my time well",
+  "Continuously learning and adapting to new technologies and development practices",
 ];
 
 export function FocusSection() {

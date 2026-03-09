@@ -1,7 +1,7 @@
 const stats = [
-  { label: "Years experience", value: "10+" },
-  { label: "Projects shipped", value: "50+" },
-  { label: "Teams led", value: "5+" },
+  { label: "GPA (Computer Science)", value: "90" },
+  { label: "Years of CS studies", value: "3" },
+  { label: "Years of IDF service", value: "3" },
 ];
 
 export function DashboardSection() {
