@@ -23,15 +23,15 @@ describe("Footer", () => {
     render(<Footer />);
     expect(screen.getByRole("link", { name: /email/i })).toHaveAttribute(
       "href",
-      "mailto:hello@yuvaltal.com"
+      "mailto:yuvalt12311@gmail.com"
     );
     expect(screen.getByRole("link", { name: /github/i })).toHaveAttribute(
       "href",
-      "https://github.com/yuvaltal"
+      "https://github.com/yuval-dotcom"
     );
     expect(screen.getByRole("link", { name: /linkedin/i })).toHaveAttribute(
       "href",
-      "https://linkedin.com/in/yuvaltal"
+      "https://www.linkedin.com/in/yuval-tal-spy"
     );
   });
 });

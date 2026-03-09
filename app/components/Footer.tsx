@@ -1,9 +1,9 @@
 import Link from "next/link";
 
 const footerLinks = [
-  { label: "Email", href: "mailto:hello@yuvaltal.com" },
-  { label: "GitHub", href: "https://github.com/yuvaltal" },
-  { label: "LinkedIn", href: "https://linkedin.com/in/yuvaltal" },
+  { label: "Email", href: "mailto:yuvalt12311@gmail.com" },
+  { label: "GitHub", href: "https://github.com/yuval-dotcom" },
+  { label: "LinkedIn", href: "https://www.linkedin.com/in/yuval-tal-spy" },
 ] as const;
 
 export function Footer() {
